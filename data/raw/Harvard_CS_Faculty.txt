@@ -1,0 +1,29 @@
+When Boaz Barak decided he wanted to work on AI safety, he didn’t look for a new research grant or a faculty collaborator. Instead, he went to OpenAI.
+
+Barak gave up his tenured professorship in computer science at the Harvard School of Engineering and Applied Sciences last year to work full-time at the San-Francisco-based company. He has since returned to Harvard in a part-time role, while still working at OpenAI.
+
+He is far from alone. 12 of 43 SEAS tenure-track professors affiliated with computer science currently hold or have held industry positions within the past five years during their time at Harvard. The rapid growth of artificial intelligence has drawn a significant share of Harvard’s computer science faculty into roles at major technology companies.
+
+Several faculty members said SEAS Dean David C. Parkes has actively encouraged professors to cultivate industry connections. Parkes, who himself conducts research at the intersection of AI and economics, has helped create part-time arrangements and affiliations that allow departing professors to maintain ties to the school.
+
+“I wouldn’t have been a Catalyst Professor without the support of David Parkes and I think he’s definitely very supportive of these types of connections,” Barak said.
+
+Holding the title of “Catalyst Professor” allows Barak to teach, advise, and conduct research on a part-time basis while maintaining his role at OpenAI. He said the role comes with the same rights as a full professor, except that his appointment is not full-time.
+
+The arrangement reflects a shift in what Barak said he wants his career to accomplish. For most of his academic life, he worked on theoretical computer science. Research, he said, was best suited to a university setting. But as AI has grown more powerful, he became convinced that the most important work he can do is in industry.
+
+“I’m now also very interested in having an actual impact on AI as it will affect people’s lives, and being at OpenAI is a good place to do it,” he said.
+
+A major factor in that calculation, he added, is computational power. AI research requires significant resources, and even Harvard’s Kempner Institute — which Barak described as a relatively strong setup in terms of computing clusters — cannot match what companies like OpenAI provide.
+
+“It’s still not comparable to what you get in the industry,” he said.
+
+Barak is not the only SEAS faculty member to make the leap. Yaron Singer, formerly a Gordon McKay Professor of Computer Science and Applied Mathematics, left his professorship entirely in 2023. He co-founded Robust Intelligence, one of the first AI security platforms, and served as its CEO before the company was acquired by Cisco, where Singer is now VP of AI and Security.
+
+“I’ve always been interested in having real world impact,” he said. “For some things, it just makes more sense to do this as a commercial entity, as a company rather than academia.”
+
+After his departure, Singer became an “Associate” at SEAS — a position that ties him to the school in name, though he now lives in California. Both he and Barak said Parkes encouraged them to pursue industry roles.
+
+“I felt a lot of encouragement from SEAS, from some of my colleagues — David Parkes in particular,” Singer said.
+
+A spokesperson for SEAS declined to comment for this story, but referred The Crimson to a Faculty of Arts and Sciences policy which states that “no more than 20 percent of one’s total professional effort may be directed to professional activities outside Harvard.”

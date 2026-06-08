@@ -1,0 +1,144 @@
+How is the CS department?
+I was recently admitted to the class of 2022, and I’m still not sure what I will concentrate in. I might consider going into CS, so I was wondering how the CS folks feel about their experience at Harvard.
+
+Thanks in advance for your responses!
+
+17
+·
+14
+u/QVAC_Official avatar
+QVAC_Official
+•
+Promoted
+
+Yes, there IS a better way to do this. Stop renting your AI infrastructure.
+Learn More
+docs.qvac.tether.io
+Clickable image which will reveal the video player: Yes, there IS a better way to do this. Stop renting your AI infrastructure.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Comments Section
+u/InternetPerson29 avatar
+InternetPerson29
+•
+9y ago
+The CS department is small compared to big CS schools (MIT, CMU) but has really top-notch faculty and is in the midst of huge growth (hiring new faculty and building in Allston). It's really easy to get to know professors and do really cool research. Since there aren't that many graduate students in CS, professors spend a lot of time working with undergraduates as well, which is great if you are interested in doing research and connecting with professors.
+
+You can take a look at the CS course list to get a sense of what you could see yourself taking. I would recommend jumping in with CS61 instead of CS50 if you have CS experience (you don't have to know C beforehand imo) and are up for a challenge.
+
+I have no complaints about the CS department so far.
+
+
+20
+sighjfc
+OP
+•
+9y ago
+That sounds fantastic! I am definitely interested in research. I will take a look at the course catalog. Thank you!
+
+6
+gdavtor
+•
+9y ago
+Welcome and congrats! Come to Visitas if you can.
+
+My only advice is don't take CS50 if you already know some programming. It's pretty bloated and you'll get more out of other cs classes.
+
+
+10
+sighjfc
+OP
+•
+9y ago
+Thanks a lot! I really want to come to Visitas, but unfortunately I can’t. I live in Iran, and Iranians are denied tourist visas due to the travel ban. Only student visas are allowed, but I can’t get my student visa until June.
+
+9
+benjenkinsv95
+•
+9y ago
+Since it's available for free on YouTube and covers so many topics I'd recommend letting it run in the background if they already have some programming knowledge.
+
+I did that back in the day and was able to fill in a couple of holes with my understanding of HTTP and basic machine learning topics.
+
+
+4
+sighjfc
+OP
+•
+9y ago
+Thanks for the suggestion! I am actually planning on taking it at home (on EdX) this year. It would help me save time and also gain some familiarity with CS.
+
+3
+u/Dammit-Vargas avatar
+Dammit-Vargas
+•
+9y ago
+It is okay if you are studying CS and intend to become a software engineer. However, if you are interested in CS as an academic field, the department is pretty amazing from an undergraduate perspective. For example, Jelani is one of the worlds leading experts on streaming algorithms and Madhu Sudan is a big name in coding theory and probabilistic proofs. Profs, for the most part, are ridiculously approachable. If you are interested in their work you can you can drop into their office hours and discuss it with them. This is something you don't get at most schools. As for taking cs50, if you have cs experience it is a pretty easy class. I would still recommend taking it as transitioning to a college environment is stressful for many people and a lighter workload your first semester helps.
+
+
+6
+u/pasdapasta avatar
+pasdapasta
+•
+9y ago
+Can confirm the approachability of the professors! Madhu Sudan(one of the faculty you mentioned) is my academic advisor, and he has taken my advising group out to dinner, and seems very concerned (in a good way) with how I am doing socially and academically, and I know if I had any concerns I would feel comfortable approaching him. The advising program allows me to get to know a faculty member as a first year student without feeling overwhelmed by not necessarily having a specific question or topic to ask them about during office hours, and I believe if you come in as a CS major then they will assign you a CS faculty member as your academic advisor too!
+
+
+4
+sighjfc
+OP
+•
+9y ago
+Wow, that’s really amazing and comforting. Thank you for your comment!
+
+2
+sighjfc
+OP
+•
+9y ago
+I am really interested in the academia/research side of things. That sounds wonderful! Thanks for the suggestion about CS50!
+
+1
+u/TheSocialHub avatar
+u/TheSocialHub
+•
+Promoted
+
+r/Adulting: why is moving abroad for your semester this stressful??
+r/Adulting: why is moving abroad for your semester this stressful??
+r/Adulting: why is moving abroad for your semester this stressful??
+r/Adulting: why is moving abroad for your semester this stressful??
+r/Adulting: why is moving abroad for your semester this stressful??
+thesocialhub.co
+Learn More
+
+[deleted]
+•
+9y ago
+u/Dkennemo avatar
+Dkennemo
+•
+9y ago
+The best way to find out whether CS for you, in my opinion, is to take CS50. It's a really engaging and fun class - and appeals to a variety of people who have a lot of CS in their background (such as myself) or have no CS in their background.
+
+I've taken CS50, CS109a, CS134, CS121, and CS265, and I've been 100% happy with all of them.
+
+
+3
+sighjfc
+OP
+•
+9y ago
+I will try taking it online this winter just to see if CS is for me. It’s nice to hear you’re enjoying your classes at Harvard!
+
+2
+u/tastumaki avatar
+tastumaki
+•
+2y ago
+Hi fellas! Im a high school student, interested in CS and no-code app, aimed to minimize borders between cultures, development. I really need a mentor help in order to master this process and get a perfect result. If you are willing to collaborate with me, please text/ contact me🙏🏼

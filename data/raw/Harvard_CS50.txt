@@ -1,0 +1,168 @@
+Is the Harvard cs50 course actually worth it ?
+hey everyone
+
+im a teen who just started getting into coding ,im currently using free code camp to learn the basics ,and im having so much fun and glad i got into it
+
+while looking for other resources to improve i came across the cousera Harverd CS50 course ,and i want to enroll but i have a few questions if ever took this course i would appreciate you answering them
+
+.is it actually beginner friendly (like just learned HTML type of beginner)?
+
+.is the certificate actually useful ?
+
+.im considering applying for financial aid because i cant afford the fee for the certificate, does anyone here actually applied for it and got it ?
+
+thank u 💓
+
+7
+·
+14
+u/AdobeDocumentCloud avatar
+AdobeDocumentCloud
+•
+Promoted
+
+Make edits on-the-go to your PDFs, all in one app.
+Shop Now
+adobe.com
+Clickable image which will reveal the video player: Make edits on-the-go to your PDFs, all in one app.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Comments Section
+Saiyusta
+•
+1y ago
+Unless you need the certificate I’d say just follow the course and go the exercises for your own learning. It’s super interesting and worth it, but also can get really hard for new programmers.
+
+
+13
+u/anna-riddle286 avatar
+anna-riddle286
+OP
+•
+1y ago
+i see ,thank u for ur answer
+
+3
+VoiD199
+•
+1y ago
+CS50 is free, you don't need to pay for the certificate.
+
+And, is it beginner friendly? Sort of... i guess. It is meant for beginners, but some of the problem sets there are really hard for beginners. Not impossible though.
+
+But it is also where I started, and it definitely helped improve a ton. I think that the difficulty is what makes this course fun and really good, as you can definitely see yourself improving as you move on the weeks.
+
+I highly recommend it!
+
+Do the course for improving your skills though, not for the certificate. The final project you'll do there is probably worth more than the certificate.
+
+
+6
+u/anna-riddle286 avatar
+anna-riddle286
+OP
+•
+1y ago
+got it ,thank u so much for ur answer 🙏
+
+2
+ChampionshipKnown969
+•
+1y ago
+Someone did a huge write up in this sub of all the CS courses (that can be taken for free) offered from Harvard.
+
+He recommended that beginners take CS50P which is exclusively Python. It's easier than CS50 and gives you a solid foundation for the basics and some intermediate knowledge.
+
+
+4
+u/anna-riddle286 avatar
+anna-riddle286
+OP
+•
+1y ago
+i will try to look for it, thank u
+
+2
+DriftyPaper
+•
+1y ago
+I just started taking this course beginning of January. I had VERY rudimentary programming knowledge before this. Absolutely no tech background.
+
+The course is very challenging and very time consuming, but it's truly incredible. I'm learning so much so fast and their homework assignments are designed to teach you how to actually think like a programmer, not just how to code. I can already think so much more creatively and critically than I ever have. I highly recommend taking it if you're on the fence!
+
+
+2
+u/anna-riddle286 avatar
+anna-riddle286
+OP
+•
+1y ago
+thank u so much for sharing ur experience with me
+
+1
+u/google avatar
+u/google
+•
+Promoted
+
+لا تخلّ شي يوقفك! المراجعة للامتحانات بقت أسهل مع Google Gemini
+Learn More
+gemini.google.com
+Clickable image which will reveal the video player: لا تخلّ شي يوقفك! المراجعة للامتحانات بقت أسهل مع Google Gemini
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Green-Day1027
+•
+1y ago
+Hey i collected a bunch of reviews of cs50. Let me know if you want to take a look
+
+
+1
+u/anna-riddle286 avatar
+anna-riddle286
+OP
+•
+1y ago
+would love too ,if ur free pls share them with me
+
+
+1
+Green-Day1027
+•
+1y ago
+Yup check it out here https://coursereviewcollector.com/cs50x
+
+There's also a little chat function so you can chat to the reviews. Here
+
+https://coursereviewcollector.com/
+
+2
+CarelessPackage1982
+•
+1y ago
+It's a good rough overview for the beginner. The certificate is worth as much as a certificate in multiplication would be worth.
+
+2
+[deleted]
+•
+1y ago
+Comment removed by moderator
+
+
+4
+u/anna-riddle286 avatar
+anna-riddle286
+OP
+•
+1y ago
+i see, thank u for taking the time i appreciate it🙏, i think im gonna stick with free code camp and finish learning the basics first and then see where i can go from there especially since i want to be on the creative side of coding rather than the complex math one at least for now .
